@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/aterm-java-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jena-arq-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jena-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jena-iri-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jena-sdb-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jena-tdb-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jfact-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/jgrapht-jdk1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/spin-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/fsaSPARQL-library-8/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
